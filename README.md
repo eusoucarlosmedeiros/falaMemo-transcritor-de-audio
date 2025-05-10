@@ -116,4 +116,4 @@ Na primeira execução, o programa baixará o modelo Whisper escolhido. Este dow
 
 ---
 
-Desenvolvido por [@eusoucarlosmedeiros](https://www.instagram.com/eusoucarlosmedeiros/) | WhatsApp: (41) 98459-5395
+Desenvolvido por [@eusoucarlosmedeiros](https://www.instagram.com/eusoucarlosmedeiros/)
