@@ -31,8 +31,8 @@ O projeto segue uma arquitetura de separação entre frontend e backend:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/eusoucarlosmedeiros/FalaMemo---Transcritor-de-Audio.git
-   cd FalaMemo---Transcritor-de-Audio
+   git clone https://github.com/eusoucarlosmedeiros/falaMemo-transcritor-de-audio.git
+   cd falaMemo-transcritor-de-audio
    ```
 
 2. Crie e ative um ambiente virtual:
